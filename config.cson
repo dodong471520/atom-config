@@ -1,0 +1,71 @@
+"*":
+  "atom-ctags": {}
+  "atom-fuzzy-grep":
+    showFullPath: true
+  "atom-ignore": {}
+  "auto-encoding": {}
+  core:
+    disabledPackages: [
+      "welcome"
+      "spell-check"
+      "wrap-guide"
+      "symbols-tree-view"
+      "structure-view"
+      "symbols-list"
+      "goto"
+      "symbols-view"
+    ]
+    excludeVcsIgnoredPaths: false
+    fileEncoding: "gbk"
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      "*.meta"
+    ]
+    packagesWithKeymapsDisabled: [
+      "structure-view"
+      "sourcefetch"
+      "split-diff"
+    ]
+    themes: [
+      "one-dark-ui"
+      "atom-dark-syntax"
+    ]
+    uriHandlerRegistration: "never"
+  "cursor-history": {}
+  editor:
+    tabLength: 4
+  "exception-reporting":
+    userId: "a3070c20-a847-4254-825d-b207d75af116"
+  "find-and-replace":
+    autocompleteSearches: true
+    projectSearchResultsPaneSplitDirection: "down"
+    scrollToResultOnLiveSearch: true
+  goto:
+    logToConsole: true
+  minimap: {}
+  "project-manager":
+    alwaysOpenInSameWindow: true
+    environmentSpecificProjects: true
+  "status-bar": {}
+  "structure-view":
+    AutoscrollFromSource: true
+  "symbol-gen": {}
+  "symbols-tree-nav": {}
+  "symbols-tree-view": {}
+  "symbols-view": {}
+  "sync-settings":
+    _lastBackupHash: "a1e95fb9f34eb66e64178b5fc745a675e4908bad"
+    gistId: "cbd675faca20efbf4c95cfd0538a7de8"
+    personalAccessToken: "1de9623fd53185e0f97c09101323719dce6c4bb2"
+  "tree-ignore": {}
+  "tree-view":
+    hideIgnoredNames: true
+  whitespace:
+    ensureSingleTrailingNewline: false
+    removeTrailingWhitespace: false
